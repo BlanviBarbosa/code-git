@@ -1,5 +1,5 @@
 <?php
-
+echo "-- CADASTRO --"
 echo "Nome: ";
 echo "Sobrenome: ";
 
