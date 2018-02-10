@@ -1,6 +1,9 @@
 <?php
 
-echo "Nome: "
-echo "Sobrenome: "
+echo "Nome: ";
+echo "Sobrenome: ";
+
+echo "Senha: ";
+echo "Email: ";
 
 ?>
