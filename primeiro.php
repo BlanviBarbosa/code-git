@@ -2,4 +2,6 @@
 <?php
 echo "Olá Mundo!";
 echo "Testetando";
+Alterando um possivel bug
+
 ?>
